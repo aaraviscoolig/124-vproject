@@ -1,0 +1,16 @@
+body{
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+        background-color: skyblue; 
+    
+}
+ canvas{
+    background-color: aliceblue;
+ }   
+
+
+h3 {
+    color: #333;
+    margin-top: 50px;
+    text-align: center;
+}
